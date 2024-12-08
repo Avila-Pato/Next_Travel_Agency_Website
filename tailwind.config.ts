@@ -25,8 +25,8 @@ const config: Config = {
         },
       },
       backgroundImage: {
-        hero: "url('/hero.jpg')",
-        video: "url('/video7.jpg')"
+        hero: "url('/assets/hero.jpg')",
+        video: "url('/assets/video7.jpg')"
       },
       screens: {
         xs: '400px',
