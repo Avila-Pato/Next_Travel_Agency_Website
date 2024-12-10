@@ -10,7 +10,7 @@ const Hero = () => {
         <section className="relative bg-hero bg-cover bg-center bg-no-repeat 
         h-[100vh] w-full z-10 pb-12">
             <div  className="max-container padding-container relative top-28
-             sm:top-1/3 z-10">
+             sm:top-28 z-10">
                 <h1 className="bold-44 sm:bold-64 text-white capitalize 
                 max-w-[36rem]"> Explora el mundo con nosotros!
                 </h1>
@@ -25,7 +25,7 @@ const Hero = () => {
                 variant="btn_white_rounded" 
                 />
             </div>
-            <h4 className="text-white my-4 bold-22">Explora los puntos de interes</h4>
+            <h4 className="text-white my-4  bold-22">Explora los puntos de interes</h4>
                 <ul className="flex flex-wrap gap-4">
                  {CATEGORIES.map((category) => (
                     <CategoryItem

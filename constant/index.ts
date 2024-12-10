@@ -25,5 +25,34 @@ export const NAV_LINKS = [
     ]
         // Seccion de destacados
         export const FEATURES = [
+            {
+                title: "paris",
+                URL: "/assets/paris.jpg",
+                des: "3 places"
+            },
+            {
+                title: "australia",
+                URL: "/assets/australia.jpg",
+                des: "2 places"
+            },
+            {
+                title: "germany",
+                URL: "/assets/germany.jpg",
+                des: "2 places"
+            },
+            {
+                title: "hong kong",
+                URL: "/assets/hong-kong.jpg",
+                des: "4 places"
+            },
+            {
+                title: "brazil",
+                URL: "/assets/brazil.jpg",
+                des: "2 places"
+            }, {
+                title: "London",
+                URL: "/assets/London.jpg",
+                des: "4 places"
+            },
 
         ]
