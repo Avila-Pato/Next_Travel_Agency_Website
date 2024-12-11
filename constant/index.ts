@@ -170,3 +170,44 @@ export const NAV_LINKS = [
             }
         ];
         
+        export const FOOTER_LINKS = [
+                {
+                    title: "Aprende Mas",
+                    links: [
+                        "About Us",
+                        "Destinations",
+                        "Travel Guides",
+                        "Book Now",
+                        "FAQ",
+                        "Privacy Policy"
+                    ]
+                },
+                {
+                    title:"Our Community",
+                    links: [
+                        "tems and Conditions",
+                        "Special Offers",
+                        "Costumers Reviws",
+                    ]
+                }
+        ]
+
+        export const FOOTER_CONTACT_INFO = {
+            title: "Contact us",
+            links: [
+                {label: "Contact Number", value: "123456789"},
+                {label: "Email adrres", value: "info@travel.com"}
+            ]
+        }
+
+        export const SOCIALS = {
+            title: "Social",
+            links: [
+                "assets/facebook.svg",
+                "assets/instagram.svg",
+                "assets/twitter.svg",
+                "assets/youtube.svg",
+                "assets/linkedin.svg",
+            ]
+        }
+
