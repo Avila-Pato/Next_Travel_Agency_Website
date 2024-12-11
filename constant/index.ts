@@ -56,3 +56,23 @@ export const NAV_LINKS = [
             },
 
         ]
+
+        export const ABOUT = [
+            {
+                title: "Confortable Journey",
+                icon: "assets/checkbox.svg"
+            },
+            {
+                title: "Travel Guide",
+                icon: "assets/checkbox.svg"
+            },
+            {
+                title: "Luxuries Hotel",
+                icon: "assets/checkbox.svg"
+            },
+            {
+                title: "Popular Destination",
+                icon: "assets/checkbox.svg"
+            },
+
+        ]
