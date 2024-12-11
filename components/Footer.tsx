@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="padding-container max-container flex w-full flex-col gap-14">
         <div className="flex flex-col items-center justify-center gap-[10%] md:flex-row">
           <Link href="/" className="mb-10 bold-20">
-            Viajes
+            LOGO
           </Link>
           <div className="flex flex-wrap gap-8 sm:justify-between md:flex-1">
             {FOOTER_LINKS.map((col) => (

@@ -1,3 +1,4 @@
+"use client"
 import { TESTIMONIAL } from "@/constant";
 import React from "react";
 import Slider from "react-slick";
