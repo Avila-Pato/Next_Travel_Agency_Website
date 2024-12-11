@@ -76,3 +76,65 @@ export const NAV_LINKS = [
             },
 
         ]
+
+        export const PACkAGES = [
+            {
+                title: "italy",
+                price: "$240",
+                URL: "/assets/pkg-italy.jpg",
+                des: "Embark on an unforgatable adventure with our all-inclusive tour ",
+                duration: "2 days",
+            },
+            {
+                title: "australia",
+                price: "$240",
+                URL: "/assets/pkg-australia.jpg",
+                des: "Embark on an unforgatable adventure with our all-inclusive tour ",
+                duration: "2 days",
+            },
+            {
+                title: "france",
+                price: "$240",
+                URL: "/assets/pkg-france.jpg",
+                des: "Embark on an unforgatable adventure with our all-inclusive tour ",
+                duration: "2 days",
+            },
+            {
+                title: "hong kong",
+                price: "$240",
+                URL: "/assets/pkg-hong-kong.jpg",
+                des: "Embark on an unforgatable adventure with our all-inclusive tour ",
+                duration: "2 days",
+            },
+            {
+                title: "brazil",
+                price: "$240",
+                URL: "/assets/pkg-brazil.jpg",
+                des: "Embark on an unforgatable adventure with our all-inclusive tour ",
+                duration: "2 days",
+            },
+            {
+                title: "indonesia",
+                price: "$240",
+                URL: "/assets/pkg-indonesia.jpg",
+                des: "Embark on an unforgatable adventure with our all-inclusive tour ",
+                duration: "2 days",
+            },
+            {
+                title: "london",
+                price: "$240",
+                URL: "/assets/pkg-london.jpg",
+                des: "Embark on an unforgatable adventure with our all-inclusive tour ",
+                duration: "2 days",
+            },
+            {
+                title: "switzerland",
+                price: "$240",
+                URL: "/assets/pkg-switzerland.jpg",
+                des: "Embark on an unforgatable adventure with our all-inclusive tour ",
+                duration: "2 days",
+            },
+
+        ]
+
+        

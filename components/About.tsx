@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 const About = () => {
   return (
-    <section className="max-container padding-container py-24">
+    <section className="max-container padding-container mt-2 ">
       <div className="flex flex-col gap-8 lg:flex-row pb-24">
         {/* parte izquierda */}
         <div className="flex flex-1 flex-col items-start jusstify-center">
@@ -26,7 +26,7 @@ const About = () => {
             </div>
         </div>
         {/* Parte derecha img*/}
-        <div className='flex flex-1 gap-4 lg:gap-8'>
+        <div className='flex flex-1 gap-4 lg:gap-8 mt-16'>
         <div className=''>
         <Image 
         src="/assets/about1.jpg"

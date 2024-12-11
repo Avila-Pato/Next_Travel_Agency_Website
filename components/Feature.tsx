@@ -79,11 +79,11 @@ const Feature = () => {
   return (
     <section className="max-container padding-container bg-slate-10 py-12">
       <div className="m-auto w-[90%]">
-        <h3 className="bold-32 text-center mt-11">Destinos recomendados</h3>
-        <p>
+        <h3 className="bold-32 text-center mt-12">Destinos recomendados</h3>
+        <p className='text-center max-lg m-auto text-gray-30 py-6'>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel assumenda
           in ut praesentium doloremque eos fugit beatae obcaecati amet
-          voluptate.
+          voluptate sit amet consectetur adipisicing elit.
         </p>
         <div className="pt-16">
           <Slider {...settings}>
